@@ -1,0 +1,33 @@
+{
+  "subject": "Vật lý",
+  "grades": {
+    "6": {
+      "questions": [
+        {"id": 1, "question": "Đơn vị đo thời gian trong hệ thống đo lường chính thức ở nước ta là", "options": ["tuần", "ngày", "giây", "giờ"], "correctAnswer": 2, "explanation": "Giây (s) là đơn vị đo thời gian trong hệ SI.", "difficulty": "easy"},
+        {"id": 2, "question": "Treo vật vào đầu dưới của một lò xo, lò xo dãn ra. Khi đó", "options": ["lò xo tác dụng vào vật một lực đẩy", "vật tác dụng vào lò xo một lực nén", "lò xo tác dụng vào vật một lực nén", "vật tác dụng vào lò xo một lực kéo"], "correctAnswer": 3, "explanation": "Vật tác dụng lực kéo làm lò xo dãn ra.", "difficulty": "medium"},
+        {"id": 3, "question": "Trong trường hợp để nâng tấm bê tông lên, cần cẩu đã tác dụng vào tấm bê tông một", "options": ["lực đẩy", "lực kéo", "lực nén", "lực đàn hồi"], "correctAnswer": 1, "explanation": "Cần cẩu tác dụng lực kéo để nâng vật lên.", "difficulty": "easy"},
+        {"id": 4, "question": "Trường hợp nào sau đây vật không bị biến dạng khi chịu tác dụng của lực?", "options": ["Cửa kính bị vỡ khi bị va đập mạnh", "Đất xốp khi được cày xới cẩn thận", "Viên bi sắt bị búng và lăn về phía trước", "Tờ giấy bị nhàu khi ta vò nó lại"], "correctAnswer": 2, "explanation": "Viên bi chỉ thay đổi chuyển động, không bị biến dạng.", "difficulty": "medium"},
+        {"id": 5, "question": "Người ta dùng búa để đóng một cái cọc tre xuống đất. Lực mà búa tác dụng lên cọc tre sẽ gây ra những kết quả gì?", "options": ["Chỉ làm biến đổi chuyển động cọc tre", "Không làm biến dạng và cũng không làm biến đổi chuyển động của cọc tre", "Chỉ làm biến dạng cọc tre", "Vừa làm biến dạng cọc tre vừa làm biến đổi chuyển động của nó"], "correctAnswer": 3, "explanation": "Lực vừa làm biến dạng vừa làm thay đổi chuyển động.", "difficulty": "medium"}
+      ]
+    },
+    "7": {
+      "questions": [
+        {"id": 1, "question": "Đơn vị của tốc độ phụ thuộc vào", "options": ["đơn vị chiều dài", "đơn vị thời gian", "đơn vị chiều dài và đơn vị thời gian", "các yếu tố khác"], "correctAnswer": 2, "explanation": "Tốc độ = quãng đường/thời gian nên phụ thuộc cả hai.", "difficulty": "medium"},
+        {"id": 2, "question": "Chọn phát biểu đúng:", "options": ["Đơn vị của tốc độ phụ thuộc vào đơn vị độ dài và đơn vị thời gian", "Tốc độ cho biết quãng đường đi được", "Cách đổi đơn vị: 1 km/h = 3,6 m/s", "Cách đổi đơn vị: 1 m/s = 0,28 km/h"], "correctAnswer": 0, "explanation": "Đơn vị tốc độ phụ thuộc vào đơn vị độ dài và thời gian.", "difficulty": "easy"},
+        {"id": 3, "question": "Tốc độ của một vật là 10m/s. Tính tốc độ của vật trên theo đơn vị km/h?", "options": ["36km/h", "54km/h", "48km/h", "60km/h"], "correctAnswer": 0, "explanation": "10 m/s = 10 × 3,6 = 36 km/h.", "difficulty": "easy"},
+        {"id": 4, "question": "Đổi đơn vị: 108km/h = ….m/s", "options": ["30m/s", "20m/s", "15m/s", "10m/s"], "correctAnswer": 0, "explanation": "108 km/h = 108/3,6 = 30 m/s.", "difficulty": "easy"},
+        {"id": 5, "question": "72km/h tương ứng bao nhiêu m/s?", "options": ["15m/s", "25m/s", "20m/s", "30m/s"], "correctAnswer": 2, "explanation": "72 km/h = 72/3,6 = 20 m/s.", "difficulty": "easy"}
+      ]
+    },
+    "8": {
+      "questions": [
+        {"id": 1, "question": "Mỗi hòn gạch \"hai lỗ\" có khối lượng 1,6kg. Hòn gạch có thể tích 1200cm³. Mỗi lỗ có thể tích 192cm³. Tính khối lượng riêng và trọng lượng riêng của gạch.", "options": ["13270N/m³", "12654N/m³", "42608N/m³", "19608N/m³"], "correctAnswer": 3, "explanation": "Thể tích thực = 1200 - 2×192 = 816 cm³. d = m/V = 1,6/0,000816 ≈ 1960,8 kg/m³. Trọng lượng riêng = 1960,8 × 10 ≈ 19608 N/m³.", "difficulty": "hard"},
+        {"id": 2, "question": "Một hộp sữa Ông Thọ có khối lượng 397g và có thể tích 320cm³. Hãy tính khối lượng riêng của sữa trong hộp theo đơn vị kg/m³", "options": ["1240,6 kg/m³", "1740,6 kg/m³", "1440,6 kg/m³", "1300,6 kg/m³"], "correctAnswer": 0, "explanation": "D = m/V = 0,397/(320×10⁻⁶) ≈ 1240,6 kg/m³.", "difficulty": "medium"},
+        {"id": 3, "question": "Một vật bằng sắt có khối lượng riêng là 7800kg/m³; thể tích 50dm³. Khối lượng của vật là:", "options": ["312kg", "390kg", "390000kg", "156kg"], "correctAnswer": 1, "explanation": "m = D×V = 7800 × 0,05 = 390 kg.", "difficulty": "medium"},
+        {"id": 4, "question": "Khối lượng riêng của sắt là 7800kg/m³. Vậy, 1kg sắt sẽ có thể tích vào khoảng", "options": ["12,8cm³", "128cm³", "1.280cm³", "12.800cm³"], "correctAnswer": 1, "explanation": "V = m/D = 1/7800 ≈ 0,000128 m³ = 128 cm³.", "difficulty": "medium"},
+        {"id": 5, "question": "Trên hộp mứt Tết có ghi 250g. Số đó ghi:", "options": ["Sức nặng của hộp mứt", "Thể tích của hộp mứt", "Khối lượng của hộp mứt", "Sức nặng và khối lượng của hộp mứt"], "correctAnswer": 2, "explanation": "250g là khối lượng của hộp mứt.", "difficulty": "easy"}
+      ]
+    }
+  }
+}
+

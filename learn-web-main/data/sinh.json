@@ -1,0 +1,33 @@
+{
+  "subject": "Sinh học",
+  "grades": {
+    "6": {
+      "questions": [
+        {"id": 1, "question": "Trong các loại tế bào dưới đây, tế bào nào dài nhất?", "options": ["Tế bào mô phân sinh ngọn", "Tế bào sợi gai", "Tế bào thịt quả cà chua", "Tế bào tép bưởi"], "correctAnswer": 1, "explanation": "Tế bào sợi gai là loại tế bào có hình dạng dài nhất.", "difficulty": "medium"},
+        {"id": 2, "question": "Trong cấu tạo của tế bào thực vật, bào quan nào thường có kích thước rất lớn, nằm ở trung tâm tế bào và đóng vai trò quan trọng trong việc duy trì áp suất thẩm thấu?", "options": ["Nhân", "Không bào", "Ti thể", "Lục lạp"], "correctAnswer": 1, "explanation": "Không bào chứa dịch tế bào, duy trì áp suất thẩm thấu.", "difficulty": "medium"},
+        {"id": 3, "question": "Ở tế bào thực vật, bộ phận nào là ranh giới trung gian giữa vách tế bào và chất tế bào?", "options": ["Không bào", "Nhân", "Màng sinh chất", "Lục lạp"], "correctAnswer": 2, "explanation": "Màng sinh chất là ranh giới giữa vách tế bào và chất tế bào.", "difficulty": "medium"},
+        {"id": 4, "question": "Dịch tế bào nằm ở bộ phận nào của tế bào thực vật?", "options": ["Không bào", "Nhân", "Màng sinh chất", "Lục lạp"], "correctAnswer": 0, "explanation": "Dịch tế bào chứa trong không bào.", "difficulty": "easy"},
+        {"id": 5, "question": "Ở tế bào thực vật, bộ phận có chức năng điều khiển mọi hoạt động sống của tế bào?", "options": ["Chất tế bào", "Vách tế bào", "Nhân", "Màng sinh chất"], "correctAnswer": 2, "explanation": "Nhân tế bào điều khiển mọi hoạt động sống.", "difficulty": "easy"}
+      ]
+    },
+    "7": {
+      "questions": [
+        {"id": 1, "question": "Quang hợp là gì?", "options": ["Một quá trình", "Một chu trình", "Một giai đoạn", "Một hoạt động"], "correctAnswer": 0, "explanation": "Quang hợp là một quá trình sinh học.", "difficulty": "easy"},
+        {"id": 2, "question": "Quá trình quang hợp gồm có các quá trình nào?", "options": ["Trao đổi chất và điều hoà nhiệt độ", "Hấp thu cacbon dioxide và thải oxygen", "Trao đổi chất và chuyển hóa năng lượng", "Hấp thu oxygen và chuyển hóa năng lượng"], "correctAnswer": 2, "explanation": "Quang hợp là quá trình trao đổi chất và chuyển hóa năng lượng.", "difficulty": "medium"},
+        {"id": 3, "question": "Điền vào chỗ trống: \"Quang hợp là một quá trình trao đổi chất và ... năng lượng quan trọng ở thực vật.\"", "options": ["Chuyển hóa", "Hấp thu", "Sử dụng", "Điều hòa"], "correctAnswer": 0, "explanation": "Quang hợp chuyển hóa năng lượng ánh sáng.", "difficulty": "easy"},
+        {"id": 4, "question": "Quá trình quang hợp có ở?", "options": ["Động vật có xương sống", "Thực vật", "Bò sát", "Côn trùng"], "correctAnswer": 1, "explanation": "Quang hợp là quá trình đặc trưng của thực vật.", "difficulty": "easy"},
+        {"id": 5, "question": "Bào quan quang hợp là?", "options": ["Ti thể", "Khí khổng", "Không bào", "Lục lạp"], "correctAnswer": 3, "explanation": "Lục lạp là bào quan quang hợp.", "difficulty": "easy"}
+      ]
+    },
+    "8": {
+      "questions": [
+        {"id": 1, "question": "Tổng số hệ cơ quan trên cơ thể người là:", "options": ["6", "7", "8", "9"], "correctAnswer": 3, "explanation": "Cơ thể người có 9 hệ cơ quan.", "difficulty": "medium"},
+        {"id": 2, "question": "Trong cơ thể người, thận thuộc hệ:", "options": ["Hệ bài tiết", "Hệ thần kinh", "Hệ tiêu hóa", "Hệ nội tiết"], "correctAnswer": 0, "explanation": "Thận thuộc hệ bài tiết.", "difficulty": "easy"},
+        {"id": 3, "question": "Hệ vận động gồm có các cơ quan chính:", "options": ["Xương và cơ vân", "Xương và gân", "Cơ vân và gân", "Cơ vân và tủy"], "correctAnswer": 0, "explanation": "Hệ vận động gồm xương và cơ vân.", "difficulty": "medium"},
+        {"id": 4, "question": "Cơ quan thuộc hệ tiêu hóa của cơ thể người:", "options": ["Tuyến trên thận", "Tuyến vị", "Tuyến giáp", "Tuyến ức"], "correctAnswer": 1, "explanation": "Tuyến vị thuộc hệ tiêu hóa.", "difficulty": "medium"},
+        {"id": 5, "question": "Cơ quan KHÔNG thuộc đường dẫn khí của hệ hô hấp:", "options": ["Khoang mũi", "Thanh quản", "Mao quản", "Khí quản"], "correctAnswer": 2, "explanation": "Mao quản là mạch máu, không phải đường dẫn khí.", "difficulty": "medium"}
+      ]
+    }
+  }
+}
+

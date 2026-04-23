@@ -1,0 +1,33 @@
+{
+  "subject": "Hóa học",
+  "grades": {
+    "6": {
+      "questions": [
+        {"id": 1, "question": "Hiện tượng vật lý là", "options": ["Đốt que diêm", "Nước sôi", "Cửa sắt bị gỉ", "Quần áo bị phai màu"], "correctAnswer": 1, "explanation": "Nước sôi là hiện tượng vật lý, chỉ thay đổi trạng thái không thay đổi bản chất.", "difficulty": "easy"},
+        {"id": 2, "question": "Than đá được hình thành trong tự nhiên do quá trình hóa thạch của cellulose. Than đá trong tự nhiên có thể", "options": ["khí", "lỏng", "plasma", "rắn"], "correctAnswer": 3, "explanation": "Than đá ở trạng thái rắn.", "difficulty": "easy"},
+        {"id": 3, "question": "Dầu thô đóng thùng được do đặc điểm của thể lỏng là", "options": ["có hình dạng xác định", "có thể nén được", "không có hình dạng xác định", "Có tính lan chảy"], "correctAnswer": 2, "explanation": "Thể lỏng không có hình dạng xác định nên có thể đóng thùng.", "difficulty": "medium"},
+        {"id": 4, "question": "Ở nhiệt độ thường (25°C, 1 atm), nước ở trạng thái", "options": ["khí", "rắn", "lỏng", "đông đá"], "correctAnswer": 2, "explanation": "Ở nhiệt độ thường, nước ở trạng thái lỏng.", "difficulty": "easy"},
+        {"id": 5, "question": "Cho các chất sau: oxygen, lead, copper, nitrogen, ethanol. Dãy gồm các chất ở thể khí là", "options": ["oxygen, lead", "lead, copper", "ethanol, nitrogen", "oxygen, nitrogen"], "correctAnswer": 3, "explanation": "Oxygen và nitrogen là các chất khí ở điều kiện thường.", "difficulty": "medium"}
+      ]
+    },
+    "7": {
+      "questions": [
+        {"id": 1, "question": "Các hạt cấu tạo nên hạt nhân của hầu hết các nguyên tử là", "options": ["electron và neutron", "proton và neutron", "neutron và electron", "electron, proton và neutron"], "correctAnswer": 1, "explanation": "Hạt nhân gồm proton và neutron.", "difficulty": "medium"},
+        {"id": 2, "question": "Các hạt cấu tạo nên hầu hết các nguyên tử là:", "options": ["electron và neutron", "proton và neutron", "neutron và electron", "electron, proton và neutron"], "correctAnswer": 3, "explanation": "Nguyên tử gồm electron, proton và neutron.", "difficulty": "medium"},
+        {"id": 3, "question": "Hạt cấu tạo nên vỏ nguyên tử là", "options": ["electron", "proton", "neutron", "proton và neutron"], "correctAnswer": 0, "explanation": "Vỏ nguyên tử gồm các electron.", "difficulty": "easy"},
+        {"id": 4, "question": "Hạt mang điện dương trong nguyên tử là", "options": ["electron", "proton", "neutron", "neutron và electron"], "correctAnswer": 1, "explanation": "Proton mang điện dương.", "difficulty": "easy"},
+        {"id": 5, "question": "Nguyên tử X có 19 proton. Số hạt electron của X là", "options": ["17", "18", "19", "20"], "correctAnswer": 2, "explanation": "Nguyên tử trung hòa điện nên số electron = số proton = 19.", "difficulty": "medium"}
+      ]
+    },
+    "8": {
+      "questions": [
+        {"id": 1, "question": "Hỗn hợp khí SO₂ và O₂ có tỉ khối so với CH₄ là 3. Thể tích khí O₂ cần thêm vào 4,958 lít hỗn hợp trên (đktc) để có tỉ khối so với CH₄ giảm còn 2,8 là:", "options": ["2,479 lít", "1,2395 lít", "12,395 lít", "24,79 lít"], "correctAnswer": 2, "explanation": "Áp dụng công thức tỉ khối và bảo toàn khối lượng.", "difficulty": "hard"},
+        {"id": 2, "question": "Tính số nguyên tử của 1,8 mol Fe", "options": ["10,85×10²³ nguyên tử", "10,8×10²³ nguyên tử", "11×10²³ nguyên tử", "1,8×10²³ nguyên tử"], "correctAnswer": 1, "explanation": "Số nguyên tử = 1,8 × 6×10²³ = 10,8×10²³.", "difficulty": "medium"},
+        {"id": 3, "question": "1 mol N₂ có V = 24,79. Hỏi 8 mol N₂ thì có V = ?. Biết khí đo ở đktc", "options": ["198,32 l", "19,832 l", "0,1792 l", "1,792 l"], "correctAnswer": 0, "explanation": "V = 8 × 24,79 = 198,32 lít.", "difficulty": "easy"},
+        {"id": 4, "question": "Số Avogadro và kí hiệu là", "options": ["6×10²³, A", "6×10⁻²³, A", "6×10²³, N", "6×10⁻²⁴, N"], "correctAnswer": 2, "explanation": "Số Avogadro là 6×10²³, kí hiệu N.", "difficulty": "easy"},
+        {"id": 5, "question": "Số mol nguyên tử tương ứng với 10,0 gam kim loại Ca là", "options": ["0,5 (mol)", "10,0 (mol)", "0,01 (mol)", "0,25 (mol)"], "correctAnswer": 3, "explanation": "n = m/M = 10/40 = 0,25 mol.", "difficulty": "medium"}
+      ]
+    }
+  }
+}
+
